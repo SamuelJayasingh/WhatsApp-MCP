@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhatsApp MCP Server
 
 This is a Model Context Protocol (MCP) server for WhatsApp.
@@ -181,3 +182,6 @@ By default, just the metadata of the media is stored in the local database. The 
 - **WhatsApp Out of Sync**: If your WhatsApp messages get out of sync with the bridge, delete both database files (`whatsapp-bridge/store/messages.db` and `whatsapp-bridge/store/whatsapp.db`) and restart the bridge to re-authenticate.
 
 For additional Claude Desktop integration troubleshooting, see the [MCP documentation](https://modelcontextprotocol.io/quickstart/server#claude-for-desktop-integration-issues). The documentation includes helpful tips for checking logs and resolving common issues.
+=======
+# WhatsApp-MCP
+>>>>>>> ec56d8de3705073b49ab5ba9a14ffacab79d49e4
